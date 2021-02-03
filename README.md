@@ -21,3 +21,5 @@ To install Vue Js properties, you should also run the commands bellow:
 
 - npm install
 - npm install vue
+
+** In Laravel <8 versions, the instalation of Vue is a little different, if you use this, please read the official Laravel documentation 
