@@ -38,7 +38,7 @@ export default {
                     this.$emit('itemchanged');
                 }
             })
-            .cath ( error => {
+            .catch ( error => {
                 console.log( error );
             })
         }

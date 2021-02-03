@@ -12048,7 +12048,7 @@ __webpack_require__.r(__webpack_exports__);
         if (response.status == 200) {
           _this2.$emit('itemchanged');
         }
-      }).cath(function (error) {
+      })["catch"](function (error) {
         console.log(error);
       });
     }
